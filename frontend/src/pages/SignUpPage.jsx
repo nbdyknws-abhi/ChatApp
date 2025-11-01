@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { LoaderPinwheelIcon } from "lucide-react";
 import { Link } from "react-router";
+import myGif from "../../public/yokai.gif";
 
 import useSignUp from "../hooks/useSignUp";
 
